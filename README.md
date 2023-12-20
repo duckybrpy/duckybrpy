@@ -32,4 +32,7 @@ me esforcei bastante para aprender tudo que sei hoje. Pretendo não parar
 - Bots
 - Webscraping
 - Automação
+- Firebase
+- MySql
+- SqLite
 - Criatividade
