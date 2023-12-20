@@ -13,8 +13,7 @@
 
 oi, me chamo ducky e estou na internet desde 2011
 comecei na area da programação/hacking em 2017/2018 e
-me esforcei bastante para aprender tudo que sei hoje, então sei de tudo
-um pouco
+me esforcei bastante para aprender tudo que sei hoje. Pretendo não parar
 
 
 ### Linguagens
