@@ -1,9 +1,4 @@
-<h1 align="center">
-    <a href="https://laravelcollective.com/tools/banner">
-        <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/banner.jpg"  />
-    </a>
-</h1>
-
+<img src='banner.jpg' alt="banner"></img>
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)](link_para_python)
 [![Shell](https://img.shields.io/badge/-Shell-black?style=flat&logo=gnu-bash)](link_para_shell)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)](link_para_javascript)
